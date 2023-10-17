@@ -1,4 +1,2 @@
 node_modules/
 .DS_Store
-node_modules/puppeteer/.local-chromium/win64-818858/chrome-win/chrome.dll
-node_modules/puppeteer/.local-chromium/win64-818858/chrome-win/interactive_ui_tests.exe
