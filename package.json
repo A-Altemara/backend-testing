@@ -1,0 +1,20 @@
+{
+  "name": "backend-testing",
+  "version": "1.0.0",
+  "description": "backend-testing",
+  "main": "http_server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^7.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "faker": "^5.1.0",
+    "jest": "^26.6.3",
+    "lowdb": "^1.0.0",
+    "puppeteer": "^5.5.0",
+    "supertest": "^5.0.0"
+  }
+}
