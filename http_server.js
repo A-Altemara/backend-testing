@@ -50,9 +50,9 @@ app.post("/add", function (req, res) {
 // ? Jest/Supertest:  comment out the port 3000 server in the http_server.js file to run these tests in the console.
 // ? Puppeteer: uncomment out the port 3000 server in the http_server.js file to run these tests in the console.
 // -----------------------
-// app.listen(3000, function () {
-//   console.log("Running on port 3000!");
-// });
+app.listen(3000, function () {
+  console.log("Running on port 3000!");
+});
 
 // export app for testing
 module.exports = app;

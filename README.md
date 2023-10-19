@@ -33,7 +33,7 @@ Note: _uncomment out the port 3000 server in the http_server.js file to run thes
 ## License Info
 
 [MIT](https://choosealicense.com/licenses/mit/)  
-_Copyright (c) 2023 Jessica Cousins_
+_Copyright (c) 2023 Airiel Altemara_
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
