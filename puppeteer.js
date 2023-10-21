@@ -16,7 +16,6 @@ const puppeteer = require("puppeteer");
 
     // wait for data to populate status div
     await page.waitForSelector("#status:not(empty)");
-    await page.clilck("#showAllData");
 
     // read status data
     let status = await page.$("#status");
