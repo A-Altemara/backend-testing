@@ -2,7 +2,7 @@
 
 ## Description
 
-This project demonstrates backend testing using Puppeteer, Jest, Supertest, and Faker.
+This project demonstrates backend testing using Puppeteer, Jest, Supertest, Faker, basic Github Actions, and Vercel
 
 ## Dependencies
 
@@ -13,6 +13,8 @@ This project demonstrates backend testing using Puppeteer, Jest, Supertest, and 
 - Express
 - LowDB
 - CORS
+- Github Actions
+- Vercel
 
 ## Run the server:
 
